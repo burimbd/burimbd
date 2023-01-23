@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burimbd
 - 👀 I’m interested in anything related to Identity
-- 🌱 I’m currently learning about Cerifiable Credentials
+- 🌱 I’m currently learning about Verifiable Credentials
 - 💞️ I’m looking to collaborate on Identity
 
 <!---
